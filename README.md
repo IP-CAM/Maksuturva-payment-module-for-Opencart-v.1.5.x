@@ -6,11 +6,11 @@ This library is free software; you can redistribute it and/or modify it under th
 
 This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Lesser General Public License for more details.
 
-> Contact information:
-Maksuturva Group Oy
-Keilaranta 5
-02150 Espoo
-Finland
+> Contact information:  
+Maksuturva Group Oy  
+Keilaranta 5  
+02150 Espoo  
+Finland  
 e-mail: info@maksuturva.fi
  
 Maksuturva Group Oy, hereby disclaims all copyright interest in
