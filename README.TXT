@@ -1,8 +1,8 @@
 
-Maksuturva/eMaksut payment module
+Maksuturva payment module
   for osCommerce, Zencart, Cubecart, Magento, Opencart, Prestashop,
   Ubercart, Virtuemart or Wordpress e-commerce.
-Copyright (C) 2012 Suomen Maksuturva Oy
+Copyright (C) 2016 Maksuturva Group Oy
 
 This library is free software; you can redistribute it and/or
 modify it under the terms of the GNU Lesser General Public
@@ -19,14 +19,14 @@ License along with this library; if not, write to the Free Software
 Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
 
 Contact information:
-   Suomen Maksuturva Oy
-   Tammasaarenkatu 1
-   00180 Helsinki
+   Maksuturva Group Oy
+   Keilaranta 5
+   02150 Espoo
    Finland
 E-mail: info@maksuturva.fi
  
-Suomen Maksuturva Oy, hereby disclaims all copyright interest in
-the library 'Maksuturva/eMaksut payment module' written
-by Runweb and Suomen Maksuturva Oy
+Maksuturva Group Oy, hereby disclaims all copyright interest in
+the library 'Maksuturva payment module' written
+by Runweb and Maksuturva Group Oy
 
-8 March, 2012 Konsta Karvinen, ICT Development Manager / Suomen Maksuturva Oy
+February 4th, 2016 Konsta Karvinen, ICT Development Manager / Maksuturva Group Oy
