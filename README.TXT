@@ -1,4 +1,6 @@
 
+Maksuturva Payment Module for OpenCart 1.5.1-
+=============================================
 Copyright (C) 2016 Maksuturva Group Oy
 
 This library is free software; you can redistribute it and/or
