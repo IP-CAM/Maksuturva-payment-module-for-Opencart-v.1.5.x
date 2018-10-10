@@ -8,16 +8,13 @@ Most simple way to test the payment module is to switch the Sandbox / Testing mo
 
 
 TESTING WITH TEST ACCOUNT
-For testing the module with actual internet bank, credit card or SveaWebPay services, you can order a test account for yourself.
-
-For Maksuturva-service: http://test1.maksuturva.fi/MerchantSubscriptionBeginning.pmt
-For eMaksut-service: http://test1.maksuturva.fi/MerchantSubscriptionBeginning.pmt?emaksut=true
+For testing the module with actual internet bank, credit card or SveaWebPay services, you can order a test account for yourself at https://test1.maksuturva.fi/MerchantSubscriptionBeginning.pmt
 
 When ordering a test account signing the order with your TUPAS bank credentials is not required. When you have completed the order and stored your test account ID and secret key, we kindly ask you to contact us for us to activate the account.
 
 In the test environment no actual money is handled and no orders tracked. For testing the internet bank payments in the test environment we recommend using the test services of either Nordea or Aktia banks bacause in their services the payer credentials are already prefilled or displayed for you. Do not try to use actual bank credentials in the test environment.
 
-For testing our payment service without using actual money, you need to set communication URL in the module configurations as http://test1.maksuturva.fi. All our test environment services are found under that domain unlike our production environment services which are found under SSL-secured domain https://www.maksuturva.fi. Test environment for KauppiasExtranet can be found similarly at http://test1.maksuturva.fi/extranet/.
+For testing our payment service without using actual money, you need to set communication URL in the module configurations as https://test1.maksuturva.fi. All our test environment services are found under that domain unlike our production environment services which are found under SSL-secured domain https://www.maksuturva.fi. Test environment for KauppiasExtranet can be found similarly at https://test1.maksuturva.fi/extranet/.
 
 
 If sandbox testing passes but testing with test server fails, the reason most likely is in communication URL, seller id or secret key. In that case you should first check that they are correct and no extra spaces are added in the beginning or end of the inputs.
@@ -25,9 +22,7 @@ If sandbox testing passes but testing with test server fails, the reason most li
 
 Instructions and manuals for integration can be found at:
 
-https://www.maksuturva.fi/services/vendor_services/integration_guidelines.html
-https://www.maksuturva.fi/documents/kauppiasmateriaali/Maksuturva_Interface_Integration_Guidelines_v1.3.pdf
-https://www.maksuturva.fi/documents/kauppiasmateriaali/SMT_Rajapinnat_Integrointiohje_v1.4.pdf
+http://docs.maksuturva.fi/en/html/pages/index.html
 
 These are found helpful in most cases.
 
